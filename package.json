@@ -1,0 +1,25 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "description": "Assignment_1",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js",
+    "dev":"nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalpesh9101/MMEAC_Node_Assignment_1.git"
+  },
+  "author": "\"Kalpesh Shewale\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalpesh9101/MMEAC_Node_Assignment_1/issues"
+  },
+  "homepage": "https://github.com/kalpesh9101/MMEAC_Node_Assignment_1#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
